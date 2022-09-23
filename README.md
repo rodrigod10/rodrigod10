@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Moliterno</h1>
 <h3 align="center">I'm a full stack javascript developer focused on react/node looking to grow as a developer by learning new concepts about software architecture</h3>
 
-- 🌱 I’m currently learning **React, TypeScript, node, Full Cycle Developer**
+- 🌱 I’m currently learning **React, TypeScript, Node, Full Cycle Developer**
 
 - 📫 How to reach me **rodrigomoliterno2015@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
